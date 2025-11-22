@@ -1,0 +1,1 @@
+print("AKu davino karamoy")
